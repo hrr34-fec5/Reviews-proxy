@@ -1,10 +1,10 @@
-# Project Name
+# Reviews-proxy
 
-> Project description
+> Reviews proxy component 
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
+  - https://github.com/hrr34-fec5/reviews-proxy
   - https://github.com/teamName/repo
   - https://github.com/teamName/repo
   - https://github.com/teamName/repo
