@@ -4,10 +4,10 @@
 
 ## Related Projects
 
-  - https://github.com/hrr34-fec5/reviews-proxy
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/hrr34-fec5/reviews-service
+  - https://github.com/hrr34-fec5/grounded-n-grits-calendar-component
+  - https://github.com/hrr34-fec5/house-description-service
+  - https://github.com/hrr34-fec5/photo-stream2
 
 ## Table of Contents
 
