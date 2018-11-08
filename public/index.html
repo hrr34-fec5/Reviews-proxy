@@ -3,46 +3,18 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="http://localhost:1337/styles.css">
     <title>Proxy</title>
   </head>
   <body>
-    <div id="root">Hello World</div>
-    <div id ="Calendar"></div>
-    <div id ="Reviews"></div>
-    <div id ="Photostream"></div>
-    <div id ="Info"></div>
-
-    <script crossorigin src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
-    <script crossorigin src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
+    <div id ="calendar"></div>
+    <div id ="reviews"></div>
+    <div id ="pictures"></div>
+    <div id ="house-description"></div>
 
     <script src="http://localhost:3030/bundle.js"></script>
     <script src="http://localhost:8080/bundle.js"></script>
-    <script src="http://localhost:3000/bundle.js"></script>
+    <script src="http://localhost:3001/bundle.js"></script>
     <script src="http://localhost:1337/bundle.js"></script>
-
-    <script>
-      ReactDOM.render(
-        React.createElement(Test),
-        document.getElementById('root')
-      );
-      ReactDOM.render(
-        React.createElement(Info),
-        document.getElementById('Info')
-      );
-      ReactDOM.render(
-        React.createElement(Calendar),
-        document.getElementById('calendar')
-      );
-      ReactDOM.render(
-        React.createElement(Pictures),
-        document.getElementById('pictures')
-      );
-      ReactDOM.render(
-        React.createElement(Reviews),
-        document.getElementById('reviews')
-      );
-    </script>
-
   </body>
 </html>
